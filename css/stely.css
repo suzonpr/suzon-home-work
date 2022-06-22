@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:;
+    box-sizing: border-box;
+}
+
+body{
+   
+    height: 100vh;
+    box-sizing: content-box;
+    background: #5097b8ec;
+}
+.body{
+    height: 100vh;
+    box-sizing: content-box;
+    background: #5097b8ec;
+
+}
+.body-one{
+    background-color: aqua;
+}
+.h1one{
+    color: #f80404;
+    margin-top: 30px;
+
+}
+header{
+    height: 100px;
+    display: flex;
+    flex-flow: row wrap;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+    align-content: center
+    
+}
+.header-forget{
+
+padding: 1;
+
+text-align: center;
+}
+
+.header-two{
+    padding-left: 503px;
+    color: deeppink;
+}
+.logo{
+    
+    font-size: 25px;
+    font-weight: 700;
+    color: #ef0ab6;
+    font-family: monospace;
+
+
+}
+.logo-thre{
+    color: rgb(218, 255, 11);
+    padding-left: 40px;
+}
+.logo span{
+color: rgba(2, 89, 252, 0.644);
+}
+.pg{
+
+}
+.pg p{
+font-size: 20px;
+
+}
+.pg a{
+    text-decoration: none;
+    
+}
+.main-content{
+   
+
+}
+.container{
+    height: calc(100vh-100px) ;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+.container-one{
+
+}
+.img-part{
+    
+
+}
+.img-part-thre{
+        width: 450px;
+        padding-left: 30px;
+    
+    
+}
+.img-part-thre img{
+
+inline-size: 600px;
+}
+.img-part-two{
+    inline-size: -258px;
+}
+.img-part img{
+    width: 450px;
+    padding-left: 40px;
+
+}
+.writing-part{
+    margin-left: -295px;
+
+}
+.writing-part h1{
+    tab-size: 20px;
+    color: rgb(37, 49, 14);
+
+}
+.writing-part p{
+
+}
+.foem-one{
+    margin-top: 50px;
+    background-color: aqua;
+}
+.p-one{
+
+    padding-top: 206px;
+    margin-left: -363px;
+}
+form{
+    padding-right: 100px;
+
+}
+.form-forget{
+
+/* text-align: center; */
+
+margin-left: -;
+}
+label{
+    color: rgb(250, 0, 0);
+
+}
+input{
+color: rgb(0, 204, 255);
+}
+.btn-reset[
+
+]
+.btn-part{
+padding-left: 27px;
+
+}
+input[type="submit"]{
+    
+}
+.btn-part a{
+
+}
